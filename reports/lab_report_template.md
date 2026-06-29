@@ -2,9 +2,9 @@
 
 ## 1. Team / student
 
-- Name:
+- Name: Nguyễn Thành Đạt - 2A202600771  
 - Repo/commit:
-- Date:
+- Date: 2026-06-29
 
 ## 2. Architecture
 
